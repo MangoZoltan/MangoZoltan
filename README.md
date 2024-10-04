@@ -1,17 +1,20 @@
 <h1 align="center">Hi there 👋</h1>
 
+<br/>
 <h3>🔭 My currently school projects:</h3>
 <ul>
   <li><b>Book Review Web Page</b><a>-</a></li>
   <!--<li><b>Board game Webshop</b><a>-</a></li>-->
 </ul>
-  
-<h3 align="left">Languages and Tools:</h3>
+
+<br/>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p><b>Front-end</b></p>
 <p align="left">
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
-   <a href="https://www.w3schools.com/bootstrap/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/bootstrap/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&nbsp;&nbsp;
 </p>
 <!--
 <p align="left">
