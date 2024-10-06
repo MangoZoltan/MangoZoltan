@@ -3,7 +3,7 @@
 <br/>
 <h3>🔭 My currently school projects:</h3>
 <ul>
-  <li><b>Book Review Web Page</b><a>-</a></li>
+  <li><b>Book Review Web Page - </b><a href="https://github.com/Ferref/szerveroldali_projekt">GitHub</a></li>
   <!--<li><b>Board game Webshop</b><a>-</a></li>-->
 </ul>
 
